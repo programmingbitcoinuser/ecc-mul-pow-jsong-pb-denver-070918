@@ -1,0 +1,1 @@
+{"stats": {"errors": 0, "failures": 0, "passes": 2, "skipped": 0, "encoding": "UTF-8", "total": 2}, "results": [{"classname": "index_test:FieldElementTest", "name": "test_mul", "time": 0.0005800724029541016, "type": "success"}, {"classname": "index_test:FieldElementTest", "name": "test_pow", "time": 0.00011491775512695312, "type": "success"}]}
